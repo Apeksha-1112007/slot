@@ -123,7 +123,7 @@ Execute the program using runserver command.
 ## OUTPUT
 
 INCLUDE YOUR OUTPUT IMAGE
-![alt text](logo.png)
+![alt text](<Screenshot 2025-12-10 120217.png>)
 
 
 ## RESULT
